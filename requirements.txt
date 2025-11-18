@@ -9,4 +9,5 @@ notebook
 jupyterlab
 catboost
 xgboost
+dill
 #-e .
